@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="styl1.xsl"?>
+<zawodnicy>
+ <zawodnik id="1" id_druż="4">
+  <imie>Andrzej</imie>
+  <nazwisko>Niedzielan</nazwisko>
+  <pozycja>napastnik</pozycja>
+  <rok.urodzenia>1988</rok.urodzenia>
+   <historia>
+    <klub id="1" rok="1995"/>
+    <klub id="2" rok="2001"/>
+    <klub id="1" rok="2002"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="2" id_druż="1">
+  <imie>Jacek</imie>
+  <nazwisko>Bąk</nazwisko>
+  <pozycja>obrońca</pozycja>
+  <rok.urodzenia>1966</rok.urodzenia>
+   <historia>
+    <klub id="4" rok="1996"/>
+    <klub id="2" rok="1997"/>
+    <klub id="3" rok="1999"/>
+    <klub id="2" rok="2000"/>
+    <klub id="1" rok="2001"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="3" id_druż="2">
+  <imie>Kamil</imie>
+  <nazwisko>Kosowski</nazwisko>
+  <pozycja>pomocnik</pozycja>
+  <rok.urodzenia>1912</rok.urodzenia>
+   <historia>
+    <klub id="1" rok="1999"/>
+    <klub id="2" rok="2001"/>
+    <klub id="3" rok="2004"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="4" id_druż="3">
+  <imie>Ireneusz</imie>
+  <nazwisko>Jeleń</nazwisko>
+  <pozycja>napastnik</pozycja>
+  <rok.urodzenia>1958</rok.urodzenia>
+ </zawodnik>
+ <zawodnik id="5" id_druż="1">
+  <imie>Jacek</imie>
+  <nazwisko>Krzynówek</nazwisko>
+  <pozycja>pomocnik</pozycja>
+  <rok.urodzenia>1966</rok.urodzenia>
+   <historia>
+    <klub id="3" rok="2000"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="7" id_druż="1">
+  <imie>Ebi</imie>
+  <nazwisko>Smolarek</nazwisko>
+  <pozycja>napastnik</pozycja>
+  <rok.urodzenia>1970</rok.urodzenia>
+   <historia>
+    <klub id="4" rok="1997"/>
+    <klub id="2" rok="2000"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="6" id_druż="5">
+  <imie>Sebastian</imie>
+  <nazwisko>Mila</nazwisko>
+  <pozycja>pomocnik</pozycja>
+  <rok.urodzenia>1980</rok.urodzenia>
+   <historia>
+    <klub id="1" rok="2001"/>
+    <klub id="4" rok="2000"/>
+    <klub id="2" rok="2001"/>
+    <klub id="3" rok="2002"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="8" id_druż="1">
+  <imie>Grzegorz</imie>
+  <nazwisko>Lewandowski</nazwisko>
+  <pozycja>obrońca</pozycja>
+  <rok.urodzenia>1982</rok.urodzenia>
+   <historia>
+    <klub id="4" rok="1999"/>
+    <klub id="3" rok="2000"/>
+    <klub id="2" rok="2001"/>
+    <klub id="3" rok="2003"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="9" id_druż="4">
+  <imie>Mirek</imie>
+  <nazwisko>Szymkowiak</nazwisko>
+  <pozycja>pomocnik</pozycja>
+  <rok.urodzenia>1965</rok.urodzenia>
+   <historia>
+    <klub id="2" rok="1998"/>
+    <klub id="1" rok="2004"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="11" id_druż="1">
+  <imie>Maciej</imie>
+  <nazwisko>Żurawski</nazwisko>
+  <pozycja>napastnik</pozycja>
+  <rok.urodzenia>1973</rok.urodzenia>
+   <historia>
+    <klub id="4" rok="1998"/>
+    <klub id="5" rok="2002"/>
+   </historia>
+ </zawodnik>
+ <zawodnik id="10" id_druż="3">
+  <imie>Tomasz</imie>
+  <nazwisko>Kłos</nazwisko>
+  <pozycja>obrońca</pozycja>
+  <rok.urodzenia>1967</rok.urodzenia>
+   <historia>
+    <klub id="1" rok="1990"/>
+    <klub id="2" rok="2000"/>
+    <klub id="5" rok="2001"/>
+   </historia>
+ </zawodnik>
+</zawodnicy>
