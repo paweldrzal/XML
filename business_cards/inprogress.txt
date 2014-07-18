@@ -1,0 +1,1 @@
+simple tamplet of business cards in xml
